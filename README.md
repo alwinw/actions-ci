@@ -22,7 +22,7 @@ Icons are from [Feather](https://help.github.com/en/actions/automating-your-work
         - Will autoformat and use git diff to show results
 2. build
 3. quality
-    * [bandit](https://github.com/PyCQA/bandit)
+    - [bandit](https://github.com/PyCQA/bandit)
 4. test
 5. deploy
 
@@ -32,5 +32,5 @@ Consider Print default variables for debugging
 
 ## References
 
-* [Publishing Actions in Github Marketplace](https://help.github.com/en/actions/automating-your-workflow-with-github-actions/publishing-actions-in-github-marketplace)
-* [Workflow syntax for GitHub Actions](https://help.github.com/en/actions/automating-your-workflow-with-github-actions/workflow-syntax-for-github-actions)
+- [Publishing Actions in Github Marketplace](https://help.github.com/en/actions/automating-your-workflow-with-github-actions/publishing-actions-in-github-marketplace)
+- [Workflow syntax for GitHub Actions](https://help.github.com/en/actions/automating-your-workflow-with-github-actions/workflow-syntax-for-github-actions)
